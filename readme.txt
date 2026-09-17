@@ -35,7 +35,6 @@
     - dd.dll        :: Application extension    
     - license.txt   :: License information
     - readme.txt    :: This file 
-    - whatsnew.txt  :: Version history 
 
 --------------------------------------------------------------------------------
-*** Copyright © Budy Setiawan Kusumah. All rights reserved. ***
+*** Copyright Â©. All rights reserved. ***
